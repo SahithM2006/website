@@ -536,10 +536,19 @@ Publish the website in the given URL.
 ```
 # OUTPUT:
 ![1 main](https://github.com/user-attachments/assets/1f01ed93-3fa4-418d-8e4e-2331775e77be)
+
+
 ![1 final (2)](https://github.com/user-attachments/assets/773852fa-0cde-460a-a680-969485a1be90)
+
+
 ![2 finalized](https://github.com/user-attachments/assets/f00fd770-7bda-4fe8-b557-c40cd3121671)
+
+
 ![3 finalized](https://github.com/user-attachments/assets/1f4d504d-0cd7-41ea-99e7-779944844aa9)
+
+
 ![4 finalized](https://github.com/user-attachments/assets/5ecabd93-507e-4cce-91b0-05a32ebd6ec2)
+
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
